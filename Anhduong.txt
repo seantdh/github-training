@@ -1,4 +1,2 @@
 This is description of my wife. You can call her that Nguyễn Ánh Dương.
 Make a new file trên repo của github
-
-Quê: Thị trấn Vĩnh trụ Hà Nam.
